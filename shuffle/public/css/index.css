@@ -1,0 +1,15 @@
+.bg-body{
+    background-color: #18191a;
+}
+.text-body{
+    color: white;
+}
+
+.bg-red-400 {
+    background-color: #c53030;
+}
+/* Animations Area */
+#header{
+    transform: translateY(-100%);
+    transition: 0.40s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}

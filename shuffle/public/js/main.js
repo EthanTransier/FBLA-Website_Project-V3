@@ -38,3 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
+// Header Dropdown
+function onloadAnimate(){
+    document.getElementById('header').style.transform = "translateY(0%)";
+}
